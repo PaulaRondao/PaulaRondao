@@ -5,6 +5,8 @@
 💬 Don't hesitate to come and look at the projects I participated in as part of my training and those I work on in my personal time.
 
 😄 Enjoy your visit, and above all don't hesitate to leave me a comment that could be beneficial for me to progress.
+
+
 <!--
 **PaulaRondao/PaulaRondao** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
