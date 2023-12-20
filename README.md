@@ -1,6 +1,10 @@
 ### Hello 👋
 
-🌱 I am currently learning web development and all the specificities related to accessibility, eco-design..
+🌱 I'm currently learning web development and all the specificities related to accessibility, eco-design..
+
+🔭 I'm also learning to work with different languages, frameworks and tools
+
+🔍 Looking for a 12 months apprenticeship everywhere in France, starting on February 2024
 
 💬 Don't hesitate to come and look at the projects I participated in as part of my training and those I work on in my personal time.
 
