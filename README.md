@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hello 👋
 
 🌱 I am currently learning web development and all the specificities related to accessibility, eco-design..
 
