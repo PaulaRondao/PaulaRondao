@@ -1,4 +1,4 @@
-## Hello 👋🏽 I'm Paula Rondao
+## Hello 👋🏽 I'm Paula
 
 🌱 I'm currently learning web development and all the specificities related to accessibility, eco-design..
 
@@ -27,7 +27,7 @@ I seek to strike a balance between creativity and responsibility in establishing
 As my mind works in a branching manner, I particularly appreciate breaking down the various steps of a process in writing to aid me in this approach, progressing step by step.
 
 
-<img align="left" alt="Linkedin" src="https://www.linkedin.com/in/paula-rondao/" /> 
+<img align="left" alt="Linkedin" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /> 
 
 
 <!--
