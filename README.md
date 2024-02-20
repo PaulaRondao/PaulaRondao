@@ -13,19 +13,21 @@
 
 ### My values
 
-❤️ Security and trust
-💬 Communicative
-✊🏽 Indulgence et engaged
-⚖️ Share norms and knowledge
-🌍 Curiosity 
+❤️ Security and trust  
+💬 Communicative  
+✊🏽 Indulgence et engaged  
+⚖️ Share norms and knowledge  
+🌍 Curiosity   
 
 
 ### How I work 
 
-My motivation is to create robustness and clarity in my web projects using my curiosity and determination to always strive for excellence. I seek to strike a balance between creativity and responsibility in establishing the necessary processes to achieve my goals, hoping to find the right measure. As my mind works in a branching manner, I particularly appreciate breaking down the various steps of a process in writing to aid me in this approach, progressing step by step.
+My motivation is to create robustness and clarity in my web projects using my curiosity and determination to always strive for excellence.   
+I seek to strike a balance between creativity and responsibility in establishing the necessary processes to achieve my goals, hoping to find the right measure.   
+As my mind works in a branching manner, I particularly appreciate breaking down the various steps of a process in writing to aid me in this approach, progressing step by step.
 
 
-<img align="left" alt="Linkedin" src="https://www.linkedin.com/in/paula-rondao/" {https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white}  /> 
+<img align="left" alt="Linkedin" src="https://www.linkedin.com/in/paula-rondao/" /> 
 
 
 <!--
