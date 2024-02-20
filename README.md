@@ -13,6 +13,7 @@
 
 ### My values
 
+
 ❤️ Security and trust  
 💬 Communicative  
 ✊🏽 Indulgence et engaged  
@@ -27,30 +28,46 @@ I seek to strike a balance between creativity and responsibility in establishing
 As my mind works in a branching manner, I particularly appreciate breaking down the various steps of a process in writing to aid me in this approach, progressing step by step.
 
 
-<img align="left" alt="Linkedin" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /> 
+### Get in touch
+
+<a href="https://www.linkedin.com/in/paula-rondao/">
+    <img align="left" alt="Linkedin" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+[My website](https://www.paula-rondao.com)    
+
+
+### Some few works, articles, research
+
+<a href="https://medium.com/@paula.rondao">
+    <img align="left" alt="Medium" src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" />
+</a>
+[My notion](https://www.notion.so/paula-rondao/Veille-D-veloppement-Web-Design-0a9828c39a594593b4104dd673b77ed7)     
+
+<a href="https://www.behance.net/paula_rondao">
+    <img align="left" alt="Behance" src="https://img.shields.io/badge/Behance-0054F7?style=for-the-badge&logo=behance&logoColor=white" />
+</a>
+<a href="https://codepen.io/Maud-Paula-Rondao">
+    <img align="left" alt="Codepend" src="https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white" />
+</a>
+
+
+
+
+
+
+
 
 
 <!--
 **PaulaRondao/PaulaRondao** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-<img align="left" alt="Linkedin" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"  /> 
- [<img align="left" alt="medium" src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" />][blog]
-blog is website definition in read file, just a place holder for all the urls that I have used.
-[blog]: https://eresh-zealous.medium.com/
-blog is website definition in read file, just a place holder for all the urls that I have used.
-[blog]: https://eresh-zealous.medium.com/
-{BadgeURLHere}
 
-[https://www.linkedin.com/in/paula-rondao/] 
+https://img.shields.io/badge/Unsplash-000000?style=for-the-badge&logo=Unsplash&logoColor=white
+https://img.shields.io/badge/Exercism-009CAB?style=for-the-badge&logo=exercism&logoColor=white
 
-[My website](https://www.paula-rondao.com)
-[My notion](https://www.notion.so/paula-rondao/Veille-D-veloppement-Web-Design-0a9828c39a594593b4104dd673b77ed7)
 
-https://codepen.io/Maud-Paula-Rondao
-https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white
 
-https://img.shields.io/badge/-Behance-blue?style=for-the-badge&logo=behance&logoColor=white
 
-How I work
+
 
 Here are some ideas to get you started:
 
