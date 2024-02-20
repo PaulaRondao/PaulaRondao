@@ -35,9 +35,7 @@ As my mind works in a branching manner, I particularly appreciate breaking down 
 <a href="https://www.linkedin.com/in/paula-rondao/">
     <img align="left" alt="Linkedin" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
-<a href="https://www.paula-rondao.com">My website
-    <img align="left" alt="Linkedin" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>   
+<a href="https://www.paula-rondao.com">My website</a>   
 
 
 
