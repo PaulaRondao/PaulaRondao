@@ -14,7 +14,6 @@
 
 ## My values
 
-
 ❤️ Security and trust  
 💬 Communicative  
 ✊🏽 Indulgence et engaged  
@@ -36,7 +35,9 @@ As my mind works in a branching manner, I particularly appreciate breaking down 
 <a href="https://www.linkedin.com/in/paula-rondao/">
     <img align="left" alt="Linkedin" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
-[!My website](https://www.paula-rondao.com)    
+<a href="https://www.paula-rondao.com">My website
+    <img align="left" alt="Linkedin" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>   
 
 
 
@@ -45,8 +46,10 @@ As my mind works in a branching manner, I particularly appreciate breaking down 
 <a href="https://medium.com/@paula.rondao">
     <img align="left" alt="Medium" src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" />
 </a>
-[!My notion]()     
-
+<a href="https://www.notion.so/paula-rondao/Veille-D-veloppement-Web-Design-0a9828c39a594593b4104dd673b77ed7">
+    <img align="left" alt="Notion" src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=Notion&logoColor=white" />
+</a>     
+    
 <a href="https://www.behance.net/paula_rondao">
     <img align="left" alt="Behance" src="https://img.shields.io/badge/Behance-0054F7?style=for-the-badge&logo=behance&logoColor=white" />
 </a>
@@ -54,9 +57,7 @@ As my mind works in a branching manner, I particularly appreciate breaking down 
     <img align="left" alt="Codepend" src="https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white" />
 </a>
 
-<a href="https://www.notion.so/paula-rondao/Veille-D-veloppement-Web-Design-0a9828c39a594593b4104dd673b77ed7">
-    <img align="left" alt="Notion" src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=Notion&logoColor=white" />
-</a>
+
 
 
 
