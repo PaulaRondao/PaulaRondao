@@ -23,6 +23,16 @@ blog is website definition in read file, just a place holder for all the urls th
 [blog]: https://eresh-zealous.medium.com/
 {BadgeURLHere}
 
+[My website](https://www.paula-rondao.com)
+[My notion](https://www.paula-rondao.com)
+
+## My values
+Security and trust
+Communicative
+Indulgence 
+Share norms and knowledge
+
+How I work
 
 Here are some ideas to get you started:
 
