@@ -32,27 +32,27 @@ As my mind works in a branching manner, I particularly appreciate breaking down 
 
 ## Get in touch
 
-<a href="https://www.linkedin.com/in/paula-rondao/">
+<a href="https://www.linkedin.com/in/paula-rondao/" target="_blank">
     <img align="left" alt="Linkedin" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
-<a href="https://www.paula-rondao.com">My website</a>   
+<a href="https://www.paula-rondao.com" target="_blank">My website</a>   
 
 
 
 ## Some few works, articles, research
 
-<a href="https://medium.com/@paula.rondao">
+<a href="https://medium.com/@paula.rondao" target="_blank">
     <img align="left" alt="Medium" src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" />
 </a>
-<a href="https://www.notion.so/paula-rondao/Veille-D-veloppement-Web-Design-0a9828c39a594593b4104dd673b77ed7">
+<a href="https://www.notion.so/paula-rondao/Veille-D-veloppement-Web-Design-0a9828c39a594593b4104dd673b77ed7" target="_blank">
     <img align="left" alt="Notion" src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=Notion&logoColor=white" />
 </a>     
     
-<a href="https://www.behance.net/paula_rondao">
+<a href="https://www.behance.net/paula_rondao" target="_blank">
     <img align="left" alt="Behance" src="https://img.shields.io/badge/Behance-0054F7?style=for-the-badge&logo=behance&logoColor=white" />
 </a>
-<a href="https://codepen.io/Maud-Paula-Rondao">
-    <img align="left" alt="Codepend" src="https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white" />
+<a href="https://codepen.io/Maud-Paula-Rondao" target="_blank">
+    <img align="left" alt="Codepen" src="https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white"  />
 </a>
 
 
