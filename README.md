@@ -4,7 +4,7 @@
 
 🔭 I'm also learning to work with different languages, frameworks and tools
 
-🔍 Looking for a 12 months apprenticeship everywhere in France, starting on april 2024
+🔍 Looking for a 12 months apprenticeship everywhere in France, starting on mai 2024
 
 💬 Don't hesitate to come and look at the projects I participated in as part of my training and those I work on in my personal time.
 
