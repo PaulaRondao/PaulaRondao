@@ -4,7 +4,7 @@
 
 🔭 I'm also learning to work with different languages, frameworks and tools
 
-🔍 Looking for a 12 months apprenticeship everywhere in France, starting on mai 2024
+🔍 I'm in apprenticeship since mai 2024 with PathTech
 
 💬 Don't hesitate to come and look at the projects I participated in as part of my training and those I work on in my personal time.
 
@@ -24,9 +24,9 @@
 
 ## How I work 
 
-My motivation is to create robustness and clarity in my web projects using my curiosity and determination to always strive for excellence.   
-I seek to strike a balance between creativity and responsibility in establishing the necessary processes to achieve my goals, hoping to find the right measure.   
-As my mind works in a branching manner, I particularly appreciate breaking down the various steps of a process in writing to aid me in this approach, progressing step by step.
+My motivation is to create robustness and clarity in my web projects using my curiosity and determination to always strive for excellence.
+I seek to strike a balance between creativity and responsibility in establishing the necessary processes to achieve my goals, hoping to find the right measure.
+I particularly appreciate breaking down the various steps of a process in working, progressing step by step.
 
 
 
