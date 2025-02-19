@@ -4,7 +4,7 @@
 
 🔭 I'm also learning to work with different languages, frameworks and tools
 
-🔍 I'm in apprenticeship since mai 2024 with PathTech. With them, I use Gitlab. 
+🔍 I'm in apprenticeship since mai 2024 with PathTech. I love working with them. It is an agency that helps ecological and/or social projects to build and organize their digital tools. With them I use Gitlab.
 
 💬 Don't hesitate to come and look at the projects I participated in as part of my training and those I work on in my personal time.
 
