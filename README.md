@@ -4,11 +4,11 @@
 
 🔭 I'm also learning to work with different languages, frameworks and tools
 
-🔍 I'm in apprenticeship since mai 2024 with PathTech
+🔍 I'm in apprenticeship since mai 2024 with PathTech. With them, I use Gitlab. 
 
 💬 Don't hesitate to come and look at the projects I participated in as part of my training and those I work on in my personal time.
 
-😄 Enjoy your visit, and above all don't hesitate to leave me a comment that could be beneficial for me to progress.
+😄 Enjoy your visit,
 
 
 
