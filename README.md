@@ -41,9 +41,7 @@ I particularly appreciate breaking down the various steps of a process in workin
 
 ## Some few works, articles, research
 
-<a href="https://medium.com/@paula.rondao">
-    <img align="left" alt="Medium" src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" />
-</a>
+
 <a href="https://www.notion.so/paula-rondao/Veille-D-veloppement-Web-Design-0a9828c39a594593b4104dd673b77ed7">
     <img align="left" alt="Notion" src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=Notion&logoColor=white" />
 </a>     
