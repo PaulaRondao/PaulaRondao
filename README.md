@@ -49,9 +49,6 @@ I particularly appreciate breaking down the various steps of a process in workin
 <a href="https://www.behance.net/paula_rondao">
     <img align="left" alt="Behance" src="https://img.shields.io/badge/Behance-0054F7?style=for-the-badge&logo=behance&logoColor=white" />
 </a>
-<a href="https://codepen.io/Maud-Paula-Rondao">
-    <img align="left" alt="Codepen" src="https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white"  />
-</a>
 
 
 
